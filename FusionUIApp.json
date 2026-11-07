@@ -1,0 +1,14 @@
+{
+  "capabilities": [],
+  "controlProfile": "generic",
+  "displayName": {
+    "en": "Exhibit Companion",
+    "zh-CN": "观展搭档"
+  },
+  "id": "exhibit.companion",
+  "minimumHostVersion": 1,
+  "role": "ordinary",
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "versionCode": 1
+}
