@@ -1,0 +1,91 @@
+{
+  "durationSeconds": 90,
+  "format": "UI capture montage, not an unbroken screencast",
+  "narration": "offline macOS Tingting speech synthesis",
+  "scenes": [
+    {
+      "start": 0,
+      "duration": 6,
+      "title": "观展搭档",
+      "source": "editorial-title-card",
+      "narration": "面向自由观展人群，观展搭档让讲解跟着问题走。"
+    },
+    {
+      "start": 6,
+      "duration": 8,
+      "title": "原生 SDK 运行画面",
+      "source": "00-native-sdk.png",
+      "narration": "原生应用已在官方模拟器运行，显示作品讲解和资料依据。"
+    },
+    {
+      "start": 14,
+      "duration": 7,
+      "title": "01 / 选择作品",
+      "source": "02-select.png",
+      "narration": "公开体验从三件作品中选择，先明确正在讨论的对象。"
+    },
+    {
+      "start": 21,
+      "duration": 8,
+      "title": "02 / 继续追问创作背景",
+      "source": "03-background.png",
+      "narration": "继续询问创作背景，讲解围绕当前作品，保留馆方资料出处。"
+    },
+    {
+      "start": 29,
+      "duration": 7,
+      "title": "03 / 让讲解更精简",
+      "source": "04-short.png",
+      "narration": "要求更精简，系统沿用作品与关注点，缩短当前讲解。"
+    },
+    {
+      "start": 36,
+      "duration": 6,
+      "title": "04 / 调整字号",
+      "source": "05-large.png",
+      "narration": "字号调整直接改变显示，不需要重新生成讲解。"
+    },
+    {
+      "start": 42,
+      "duration": 7,
+      "title": "05 / 精简卡放到底部",
+      "source": "06-layout.png",
+      "narration": "精简卡放到底部，让观众按自己的阅读习惯调整。"
+    },
+    {
+      "start": 49,
+      "duration": 8,
+      "title": "06 / 不确定时，先确认",
+      "source": "07-ambiguity.png",
+      "narration": "当风景画指向多个候选，先请用户确认，不擅自猜测。"
+    },
+    {
+      "start": 57,
+      "duration": 7,
+      "title": "07 / 确认后继续原问题",
+      "source": "08-confirm.png",
+      "narration": "确认后，切换到对应作品，再接着原来的问题讲解。"
+    },
+    {
+      "start": 64,
+      "duration": 7,
+      "title": "08 / 资料不足，明确说明",
+      "source": "09-insufficient.png",
+      "narration": "没有估价资料时，明确说明不足，并提示可询问的范围。"
+    },
+    {
+      "start": 71,
+      "duration": 10,
+      "title": "语音链路：先核对，再讲解",
+      "source": "editorial-title-card",
+      "narration": "原生语音先显示转写原文和当前作品，确认后才讲解。识别效果仍需继续优化。"
+    },
+    {
+      "start": 81,
+      "duration": 9,
+      "title": "代码、视频、在线体验，都在仓库",
+      "source": "editorial-title-card",
+      "narration": "代码和材料放在同一仓库。在线版提供静态交互体验，原生和语音能力边界如实标注。"
+    }
+  ]
+}
