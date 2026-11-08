@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "id": "van-gogh-poets-lovers-2024",
+  "title": "梵高：诗人与恋人",
+  "originalTitle": "Van Gogh: Poets and Lovers",
+  "venue": "英国国家美术馆，伦敦",
+  "startDate": "2024-09-14",
+  "endDate": "2025-01-19",
+  "notice": "历史展览资料演示 · 并非当前在展或实时导览",
+  "verifiedAt": "2026-11-07",
+  "sources": [
+    {
+      "id": "ng-exhibition",
+      "title": "National Gallery · Van Gogh: Poets and Lovers",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/past/van-gogh-poets-and-lovers",
+      "locator": "展期及 Exhibition highlights"
+    },
+    {
+      "id": "ng-sunflowers",
+      "title": "National Gallery · Sunflowers · NG3863",
+      "url": "https://www.nationalgallery.org.uk/paintings/vincent-van-gogh-sunflowers",
+      "locator": "About the work / Key facts"
+    },
+    {
+      "id": "orsay-night",
+      "title": "Musée d’Orsay · La Nuit étoilée · RF 1975 19",
+      "url": "https://www.musee-orsay.fr/en/artworks/la-nuit-etoilee-78696",
+      "locator": "作品简介 / Object details"
+    },
+    {
+      "id": "ng-wheatfield",
+      "title": "National Gallery · A Wheatfield, with Cypresses · NG3861",
+      "url": "https://www.nationalgallery.org.uk/paintings/vincent-van-gogh-a-wheatfield-with-cypresses",
+      "locator": "About the work / Key facts / Exhibition history"
+    }
+  ],
+  "exhibits": [
+    {
+      "id": "sunflowers-ng3863",
+      "number": 1,
+      "title": "向日葵",
+      "originalTitle": "Sunflowers",
+      "artist": "文森特·梵高",
+      "year": "1888",
+      "collection": "英国国家美术馆 · NG3863",
+      "aliases": [
+        "向日葵",
+        "sunflowers"
+      ],
+      "categories": [
+        "花卉",
+        "静物"
+      ],
+      "facts": [
+        {
+          "id": "sun-basic",
+          "topics": [
+            "overview",
+            "author",
+            "date",
+            "material"
+          ],
+          "text": "这是梵高于1888年创作的布面油画《向日葵》，这里指英国国家美术馆收藏的NG3863版本。",
+          "sourceId": "ng-sunflowers",
+          "shortText": "梵高的《向日葵》，1888年布面油画；此处为伦敦NG3863版本。"
+        },
+        {
+          "id": "sun-background",
+          "topics": [
+            "background"
+          ],
+          "text": "这组画与梵高布置阿尔勒住所、迎接画家高更来访的计划有关。",
+          "sourceId": "ng-sunflowers",
+          "shortText": "这组画与装饰阿尔勒住所、迎接高更有关。"
+        },
+        {
+          "id": "sun-composition",
+          "topics": [
+            "composition"
+          ],
+          "text": "画面有15朵向日葵，呈现从花蕾、盛开到结籽的不同阶段；黄色在花、花瓶和背景之间变化。",
+          "sourceId": "ng-sunflowers",
+          "shortText": "15朵花呈现不同生长阶段，以多种黄色组织画面。"
+        }
+      ],
+      "missing": [
+        "现时估价",
+        "实时展厅位置",
+        "没有明确资料支持的心理动机"
+      ]
+    },
+    {
+      "id": "starry-rhone-rf197519",
+      "number": 2,
+      "title": "罗讷河上的星夜",
+      "originalTitle": "Starry Night over the Rhône",
+      "artist": "文森特·梵高",
+      "year": "1888",
+      "collection": "奥赛博物馆 · RF 1975 19",
+      "aliases": [
+        "罗讷河上的星夜",
+        "罗纳河上的星夜",
+        "罗讷河星夜",
+        "星夜",
+        "starry night"
+      ],
+      "categories": [
+        "风景",
+        "夜景"
+      ],
+      "facts": [
+        {
+          "id": "night-basic",
+          "topics": [
+            "overview",
+            "author",
+            "date",
+            "material"
+          ],
+          "text": "《罗讷河上的星夜》是梵高于1888年创作的布面油画，收藏于奥赛博物馆。",
+          "sourceId": "orsay-night",
+          "shortText": "梵高的《罗讷河上的星夜》，1888年布面油画，奥赛藏。"
+        },
+        {
+          "id": "night-background",
+          "topics": [
+            "background"
+          ],
+          "text": "梵高在阿尔勒持续探索夜景题材，并于1888年9月画下这幅罗讷河夜景。",
+          "sourceId": "orsay-night",
+          "shortText": "梵高1888年9月在阿尔勒探索罗讷河夜景。"
+        },
+        {
+          "id": "night-composition",
+          "topics": [
+            "composition"
+          ],
+          "text": "画面以蓝色调为主，橙色城市煤气灯映入水中，前景可见一对散步的人。",
+          "sourceId": "orsay-night",
+          "shortText": "蓝色夜景中，橙色灯光映在水面，前景有一对散步的人。"
+        },
+        {
+          "id": "night-distinction",
+          "topics": [
+            "identity"
+          ],
+          "text": "这幅1888年的罗讷河夜景，与后来收藏于纽约现代艺术博物馆的另一幅《星夜》是不同作品。",
+          "sourceId": "orsay-night",
+          "shortText": "这是1888年的罗讷河夜景，不是纽约现代艺术博物馆的另一幅《星夜》。"
+        }
+      ],
+      "missing": [
+        "画中人物身份",
+        "现时估价",
+        "实时展厅位置"
+      ]
+    },
+    {
+      "id": "wheatfield-ng3861",
+      "number": 3,
+      "title": "有柏树的麦田",
+      "originalTitle": "A Wheatfield, with Cypresses",
+      "artist": "文森特·梵高",
+      "year": "1889",
+      "collection": "英国国家美术馆 · NG3861",
+      "aliases": [
+        "有柏树的麦田",
+        "柏树麦田",
+        "麦田",
+        "柏树",
+        "wheatfield"
+      ],
+      "categories": [
+        "风景",
+        "田园"
+      ],
+      "facts": [
+        {
+          "id": "wheat-basic",
+          "topics": [
+            "overview",
+            "author",
+            "date",
+            "material"
+          ],
+          "text": "这里的《有柏树的麦田》是梵高于1889年创作的布面油画，指英国国家美术馆收藏的NG3861版本。",
+          "sourceId": "ng-wheatfield",
+          "shortText": "梵高的《有柏树的麦田》，1889年布面油画；此处为NG3861版本。"
+        },
+        {
+          "id": "wheat-background",
+          "topics": [
+            "background"
+          ],
+          "text": "梵高先在1889年6月进行户外写生，国家美术馆这一版本于同年9月在室内完成。",
+          "sourceId": "ng-wheatfield",
+          "shortText": "户外写生始于1889年6月，此版本同年9月在室内完成。"
+        },
+        {
+          "id": "wheat-composition",
+          "topics": [
+            "composition"
+          ],
+          "text": "金色麦田、高耸柏树和远处山脉构成风景，弯曲而有节奏的笔触把各部分联系起来。",
+          "sourceId": "ng-wheatfield",
+          "shortText": "麦田、柏树和山脉由弯曲、有节奏的笔触联系起来。"
+        }
+      ],
+      "missing": [
+        "现时估价",
+        "实时展厅位置",
+        "没有明确资料支持的心理动机"
+      ]
+    }
+  ]
+}

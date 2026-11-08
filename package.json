@@ -8,6 +8,11 @@
   "name": "exhibit.companion",
   "packageManager": "npm@11.6.2",
   "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "start": "node backend/server.cjs",
+    "validate:data": "node tools/validate-data.cjs"
+  },
   "type": "commonjs",
   "version": "1.0.0"
 }

@@ -1,12 +1,12 @@
 {
-  "capabilities": [],
+  "capabilities": ["input.audio", "input.navigation", "input.text"],
   "controlProfile": "generic",
   "displayName": {
     "en": "Exhibit Companion",
     "zh-CN": "观展搭档"
   },
   "id": "exhibit.companion",
-  "minimumHostVersion": 1,
+  "minimumHostVersion": 2,
   "role": "ordinary",
   "schemaVersion": 1,
   "version": "1.0.0",
